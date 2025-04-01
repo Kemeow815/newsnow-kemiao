@@ -1,15 +1,15 @@
 {
-  "name": "newsnow",
+  "name": "KemiaoNews",
   "type": "module",
-  "version": "0.0.25",
+  "version": "0.0.1",
   "private": true,
   "packageManager": "pnpm@10.5.2",
   "author": {
-    "url": "https://github.com/ourongxing/",
-    "email": "orongxing@gmail.com",
-    "name": "ourongxing"
+    "url": "https://github.com/Kemeow815",
+    "email": "kemiaofx@163.com",
+    "name": "ke Miao"
   },
-  "homepage": "https://github.com/ourongxing/newsnow",
+  "homepage": "https://github.com/Kemeow815/newsnow-kemiao",
   "scripts": {
     "dev": "npm run presource && vite dev",
     "build": "npm run presource && vite build",
